@@ -1,0 +1,4 @@
+/* DEFAULT CSS FOR CONNECT WITH ME WIDGET */
+#cwm-list { list-style-type: none; }
+#cwm-list li { float: left; margin-right: 5px; }
+#cwm-list li a { border: none; text-decoration: none; padding: 0; margin: 0; }
